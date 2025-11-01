@@ -1,3 +1,4 @@
+#define _POSIX_C_SOURCE 200809L
 #include <pthread.h>  // Para los threads
 #include <stdio.h>    // Para printf
 #include <stdlib.h>   // Para abort
